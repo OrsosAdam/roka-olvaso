@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px !important;
+    margin: 0;
+    padding:0;
+    line-height: 1.5;
+}
+body {
+    background-color: #f0f0f0 !important;
+}
+.paragraph {
+    color: #232323;
+}
+.heading {
+    color: #111;
+    font-weight:bold;
+    letter-spacing: 110%;
+    max-width:1200px;
+    font-size:16px;
+    margin:0 auto !important;
+    display:flex !important;
+    font-size:200% !important;
+    margin-bottom:25px !important;
+}
+.text {
+    display: flex;
+    flex-flow:column;
+}
+.link{
+    margin-bottom:0.5rem;
+}
+.container{
+    max-width: 1200px !important;
+    margin:0 auto !important;
+    display:flex !important;
+}
+.link {
+    display:flex;
+}
+.navigation{
+    flex-basis:200px;
+    padding-right: 0.5rem;
+}
+br {
+    display: block !important;
+    margin: 1rem!important;
+    content: '';
+}
