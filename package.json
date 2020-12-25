@@ -1,0 +1,20 @@
+{
+  "name": "roka-olvaso",
+  "version": "0.1.0",
+  "description": "Egy kicsi chrome extension, hogy jobban lehessen olvasni a sarkiroka.hu-t.",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrsosAdam/roka-olvaso.git"
+  },
+  "keywords": [],
+  "author": "Orsós Ádám <adam@orsos.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrsosAdam/roka-olvaso/issues"
+  },
+  "homepage": "https://github.com/OrsosAdam/roka-olvaso#readme"
+}
