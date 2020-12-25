@@ -1,5 +1,6 @@
 # Róka olvasó
 
+![A Róka olvasó képernyőképe](kepernyokep.png)
 ## Leírás
 Ez a projekt egy apró Chrome kiegészítő, ami a [sarkiroka.hu](www.sarkiroka.hu) olvashatóságát próbálja növelni.
 
