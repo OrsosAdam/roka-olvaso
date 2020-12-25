@@ -1,13 +1,6 @@
-* {
-    box-sizing: border-box;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:18px !important;
-    margin: 0;
-    padding:0;
-    line-height: 1.5;
-}
 body {
     background-color: #f0f0f0 !important;
+    font-size: unset !important;
 }
 .paragraph {
     color: #232323;
@@ -15,7 +8,6 @@ body {
 .heading {
     color: #111;
     font-weight:bold;
-    letter-spacing: 110%;
     max-width:1200px;
     font-size:16px;
     margin:0 auto !important;
